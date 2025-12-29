@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+
+body {
+    font-family: 'Gowun Batang', serif; /* 고운바탕체 */
+    max-width: 700px; /* 너무 넓지 않게, 책 한 페이지 너비 */
+    margin: 0 auto; /* 중앙 정렬 */
+    padding: 40px 20px;
+    line-height: 1.8; /* 줄간격 넓게 */
+    color: #333; /* 완전 검정보다 눈이 편한 진한 회색 */
+    background-color: #fcfcfc; /* 눈이 편한 미색 */
+}
+
+a { text-decoration: none; color: #2a4b7c; } /* 링크는 차분한 남색 */
+a:hover { text-decoration: underline; }
+
+header { margin-bottom: 50px; text-align: center; }
+h1 a { color: #000; font-weight: normal; }
+
+.post-list { list-style: none; padding: 0; }
+.post-list li { margin-bottom: 15px; }
+.date { color: #888; font-size: 0.9em; margin-right: 10px; }
