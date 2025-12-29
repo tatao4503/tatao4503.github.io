@@ -1,0 +1,5 @@
+title: tao's Note
+description: 시와 코딩이 교차하는 순간
+theme: jekyll-theme-primer # 가장 기초적인 흰 배경 테마입니다 (나중에 삭제 가능)
+plugins:
+  - jekyll-seo-tag
